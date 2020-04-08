@@ -5,7 +5,7 @@ These form the basics for Deep Learning. The reporsitory contains many examples.
 ### Regression Model:
 
 ### Binary Classification:
-HR Analytics dataset, to predict the employees who will stay in orgnization. here[https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb] is the notebook with details of the implementation.
+HR Analytics dataset, to predict the employees who will stay in orgnization. [Here](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb) is the notebook with details of the implementation.
 ANN performs better than Logistic Regression Model.
 
 ### Multi Class Classification:
