@@ -5,9 +5,10 @@ Basic implementation with detailed steps are [Here](https://nbviewer.jupyter.org
 
 ## Case Studies:
 ### Regression Model:
+Boston Housing Prices Dataset is a base for Regression problems, [here](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/38b4580ec86736e06a7e660d6fe1906940ad4eb6/Regression/Regression_Keras.ipynb) is a notebook which has implementations of a basic ANN and using that we have the MAE of 20 on Testing data, which is better than any basic model.
 
 ### Binary Classification:
-HR Analytics dataset, to predict the employees who will stay in orgnization. [Here](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb) is the notebook with details of the implementation.
+HR Analytics dataset, to predict the employees who will stay in orgnization. [Here](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/47df6bd2dcec91460a9062191ebaf0852670ae15/Binary%20Classification/binary_classification_keras.ipynb) is the notebook with details of the implementation.
 ANN performs better than Logistic Regression Model.
 
 ### Multi Class Classification:
