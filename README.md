@@ -14,6 +14,6 @@ HR Analytics dataset, to predict the employees who will stay in orgnization. [He
 ## Identify the Digits:
 
 ## Identify the apparels:
-This is similar to MSIST data, however the images are of apparels. In (this)[] notebook we would build an ANN model and then check various modifications we can do to the model to improve the prediction capabilities. There are graphs which would support the arguments while we work on improving the Accuracy.
+This is similar to MSIST data, however the images are of apparels. In (this)[https://github.com/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb] notebook we would build an ANN model and then check various modifications we can do to the model to improve the prediction capabilities. There are graphs which would support the arguments while we work on improving the Accuracy.
 
 ## Stock Market Predictions:
