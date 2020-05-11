@@ -16,4 +16,15 @@ HR Analytics dataset, to predict the employees who will stay in orgnization. [He
 ## Identify the apparels:
 This is similar to MSIST data, however the images are of apparels. In [this](https://github.com/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb) notebook we would build an ANN model and then check various modifications we can do to the model to improve the prediction capabilities. There are graphs which would support the arguments while we work on improving the Accuracy.
 
-## Stock Market Predictions:
+## Hyperparameter Tuning with TALOS:
+A machine learning model has two types of parameters:
+
+trainable parameters, which are learned by the algorithm during training. For instance, the weights of a neural network are trainable parameters.
+
+hyperparameters, which need to be set before launching the learning process. The learning rate or the number of units in a dense layer are hyperparameters.
+
+Hyperparameters can be numerous even for small models. Tuning them can be a real brain teaser but worth the challenge: a good hyperparameter combination can highly improve your model's performance. Here we'll see that on a simple CNN model, it can help you gain 10% accuracy on the test set!
+
+Thankfully, open-source libraries are available to automatically perform this step for you!
+
+One such library is TALOS.[Here](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/c1876138e8a0be947bf1b2e5fa2c9765c5423a5f/Binary%20Classification/Bank%20Churn%20Prediction%20using%20ANN.ipynb) is a notebook which will give details on how to use TALOS pacakge for tuning of Keras models.
