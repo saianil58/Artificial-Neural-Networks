@@ -23,7 +23,7 @@ trainable parameters, which are learned by the algorithm during training. For in
 
 hyperparameters, which need to be set before launching the learning process. The learning rate or the number of units in a dense layer are hyperparameters.
 
-Hyperparameters can be numerous even for small models. Tuning them can be a real brain teaser but worth the challenge: a good hyperparameter combination can highly improve your model's performance. Here we'll see that on a simple CNN model, it can help you gain 10% accuracy on the test set!
+Hyperparameters can be numerous even for small models. Tuning them can be a real brain teaser but worth the challenge: a good hyperparameter combination can highly improve your model's performance. 
 
 Thankfully, open-source libraries are available to automatically perform this step for you!
 
